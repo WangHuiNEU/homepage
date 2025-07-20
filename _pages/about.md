@@ -37,7 +37,7 @@ My ultimate goal is to turn biology from a trial-and-error **science** into a pr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ultragen.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Decoding the RNA interactome by UltraGen
+**Decoding the RNA interactome by UltraGen**
 
 **Hui Wang**, Zhaoming Chen, Wenjun Lin, Yuan Jiang, Jingye Zhang, Wenhao Huang, Yonggui Fu, Hongwang Xiao, David Kuster, Andres Jäschke, Qiwei Ye, Yaqing Zhang
 
