@@ -23,14 +23,10 @@ My ultimate goal is to turn biology from a trial-and-error **science** into a pr
 
 <br><br>
 
-<br><br>
-
 # 🔥 News
 
 - 2025.6: 🎉 UltraSelex was selected as the cover feature in the current issue of *Nature Chemical Biology*, and you can find additional perspectives in the [news & views](https://www.nature.com/articles/s41589-025-01917-0)
 - 2025.3: 🎉 Our collaborative paper **"Single-step discovery of high-affinity RNA ligands by UltraSelex"** has been accepted by *Nature Chemical Biology* (IF: 13.7). Congratulations to Yaqing!
-
-<br><br>
 
 <br><br>
 
@@ -86,8 +82,6 @@ NeurIPs 2024 Workshop: Foundation Models for Science: Progress, Opportunities, a
 
 <br><br>
 
-<br><br>
-
 # 📝 Publications (Co-Author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Chemical Biology 2025</div><img src='images/ultraselex.png' alt="sym" width="80%"></div></div>
@@ -136,8 +130,6 @@ NeurIPS 2022
 
 <br><br>
 
-<br><br>
-
 # ⭐ Highlights
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Chemical Biology 2025</div><img src='images/cover.png' alt="sym" width="70%"></div></div>
@@ -151,8 +143,6 @@ UltraSelex, a rapid single-round method for high-affinity aptamer discovery, is 
 </div>
 
 
-
-<br><br>
 
 <br><br>
 
