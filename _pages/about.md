@@ -167,8 +167,6 @@ UltraSelex, a rapid single-round method for high-affinity aptamer discovery, is 
 
 <br><br>
 
-<br><br>
-
 # 📖  Educations & Internships
 
 - 2023.07 - Present，Algorithm Engineer at Beijing Academy of Artificial Intelligence (BAAI), specializing in AI4Biology.
