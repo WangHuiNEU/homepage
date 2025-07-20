@@ -38,7 +38,7 @@ My ultimate goal is to turn biology from a trial-and-error **science** into a pr
 Guoqing Zhang , **Hui Wang\*** , Zhiguo Zhang , Lu Zhang , Guibing Guo , Jian Yang , Fajie Yuan , Feng Ju
 
 <a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/Paper-Briefs%20in%20Bioinformatics-green" style="max-width: 100%;"></a>
-<a href="https://github.com/emblab-westlake/FunGeneTyper"><img src="https://img.shields.io/github/stars/westlake-repl/ProTrek?style=social&label=Code+Stars" style="max-width: 100%;"></a>
+<a href="https://github.com/emblab-westlake/FunGeneTyper"><img src="https://img.shields.io/github/stars/emblab-westlake/FunGeneTyper?style=social&label=Code+Stars" style="max-width: 100%;"></a>
 
 
 
