@@ -63,14 +63,14 @@ Briefs in Bioinformatics 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurLIP 2024 Workshop</div><img src='images/opi.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src='images/opi.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **OPI: An Open Instruction Dataset for Adapting Large Language Models to Protein-Related Tasks**
 
 Hongwang Xiao\*, Wenjun Lin\*, **Hui Wang\***, Zheng Liu, Qiwei Ye
 
-NeurIPs2024 Workshop: Foundation Models for Science: Progress, Opportunities, and Challenges
+NeurIPs 2024 Workshop: Foundation Models for Science: Progress, Opportunities, and Challenges
 
 </div>
 </div>
