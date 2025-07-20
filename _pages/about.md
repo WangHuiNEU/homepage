@@ -26,7 +26,7 @@ My ultimate goal is to turn biology from a trial-and-error **science** into a pr
 - 2025.6: 🎉 UltraSelex was selected as the cover feature in the current issue of *Nature Chemical Biology*, and you can find additional perspectives in the [news & views](https://www.nature.com/articles/s41589-025-01917-0)
 - 2025.3: 🎉 Our collaborative paper **"Single-step discovery of high-affinity RNA ligands by UltraSelex"** has been accepted by *Nature Chemical Biology* (IF: 13.7). Congratulations to Yaqing!
 
-# Publications (First Author&Co-first Author)
+# 📝 Publications (First Author&Co-first Author)
 
 \* denotes equal contribution
 
@@ -47,14 +47,12 @@ Guoqing Zhang , **Hui Wang\*** , Zhiguo Zhang , Lu Zhang , Guibing Guo , Jian Ya
 
 **Hui Wang**, Zhaoming Chen, Wenjun Lin, Yuan Jiang, Jingye Zhang, Wenhao Huang, Yonggui Fu, Hongwang Xiao, David Kuster, Andres Jäschke, Qiwei Ye, Yaqing Zhang
 
-<a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/Paper-researchsquare-green" style="max-width: 100%;"></a>
-
-<a href="https://codeocean.com/capsule/1240603/tree/v1"><img src="https://img.shields.io/badge/code-codeocean-blue" style="max-width: 100%;"></a>
+<a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/Paper-researchsquare-green" style="max-width: 100%;"></a><a href="https://codeocean.com/capsule/1240603/tree/v1"><img src="https://img.shields.io/badge/code-codeocean-blue" style="max-width: 100%;"></a>
 
 </div>
 </div>
 
-# Publications (Co-Author)
+# 📝Publications (Co-Author)
 
 
 
