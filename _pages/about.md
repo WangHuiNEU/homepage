@@ -70,7 +70,7 @@ Briefs in Bioinformatics 2024
 
 Hongwang Xiao\*, Wenjun Lin\*, **Hui Wang\***, Zheng Liu, Qiwei Ye
 
-<a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/paper-Workshop-green" style="max-width: 100%;"></a>
+<a href="https://neurips.cc/virtual/2024/105921"><img src="https://img.shields.io/badge/paper-Workshop-green" style="max-width: 100%;"></a>
 <a href="https://github.com/emblab-westlake/FunGeneTyper"><img src="https://img.shields.io/github/stars/baaihealth/opi?style=social&label=Code+Stars" style="max-width: 100%;"></a>
 
 NeurIPs 2024 Workshop: Foundation Models for Science: Progress, Opportunities, and Challenges
@@ -79,6 +79,17 @@ NeurIPs 2024 Workshop: Foundation Models for Science: Progress, Opportunities, a
 </div>
 
 # 📝Publications (Co-Author)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Chemical Biology 2025</div><img src='images/ultraselex.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Single-step discovery of high-affinity RNA ligands by UltraSelex**
+
+Yaqing Zhang, Yuan Jiang, David Kuster, Qiwei Ye, Wenhao Huang, Simon Fürbacher, Jingye Zhang, Pia Doll, Wenjun Lin, Siwei Dong, **Hui Wang**, Zhipeng Tang, David Ibberson, Klemens Wild, Irmgard Sinning, Anthony A. Hyman & Andres Jäschke
+
+Nature Chemical Biology 2025
+
+<a href="https://https://www.nature.com/articles/s41589-025-01868-6"><img src="https://img.shields.io/badge/paper-Nature Chemical Biology-green" style="max-width: 100%;"></a>
 
 
 
