@@ -91,7 +91,23 @@ Nature Chemical Biology 2025
 
 <a href="https://https://www.nature.com/articles/s41589-025-01868-6"><img src="https://img.shields.io/badge/paper-Nature Chemical Biology-green" style="max-width: 100%;"></a>
 
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications 2025</div><img src='images/esm-ezy.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ESM-Ezy: a deep learning strategy for the mining of novel multicopper oxidases with superior properties**
+
+Hui Qian, Yuxuan Wang, Xibin Zhou, Tao Gu, **Hui Wang**, Hao Lyu, Zhikai Li, Xiuxu Li, Huan Zhou, Chengchen Guo, Fajie Yuan & Yajie Wang
+
+Nature Communications 2025
+
+<a href="https://www.nature.com/articles/s41467-025-58521-y"><img src="https://img.shields.io/badge/paper-Nature Communications-green" style="max-width: 100%;"></a>
+
+
+
+# Highlights
 
 
 
