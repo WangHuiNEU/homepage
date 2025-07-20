@@ -37,7 +37,11 @@ My ultimate goal is to turn biology from a trial-and-error **science** into a pr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ultragen.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+#####  Decoding the RNA interactome by UltraGen
+
 **Hui Wang**, Zhaoming Chen, Wenjun Lin, Yuan Jiang, Jingye Zhang, Wenhao Huang, Yonggui Fu, Hongwang Xiao, David Kuster, Andres Jäschke, Qiwei Ye, Yaqing Zhang
+
+*UnderReivew*
 
 <a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/Paper-researchsquare-green" style="max-width: 100%;"></a><a href="https://codeocean.com/capsule/1240603/tree/v1"><img src="https://img.shields.io/badge/code-codeocean-blue" style="max-width: 100%;"></a>
 
@@ -51,10 +55,21 @@ My ultimate goal is to turn biology from a trial-and-error **science** into a pr
 
 Guoqing Zhang , **Hui Wang\*** , Zhiguo Zhang , Lu Zhang , Guibing Guo , Jian Yang , Fajie Yuan , Feng Ju
 
+Briefs in Bioinformatics 2024
+
 <a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/Paper-Briefs%20in%20Bioinformatics-green" style="max-width: 100%;"></a>
 <a href="https://github.com/emblab-westlake/FunGeneTyper"><img src="https://img.shields.io/github/stars/emblab-westlake/FunGeneTyper?style=social&label=Code+Stars" style="max-width: 100%;"></a>
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurLIP 2024 Workshop</div><img src='images/opi.jpg' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**OPI: An Open Instruction Dataset for Adapting Large Language Models to Protein-Related Tasks**
+
+Hongwang Xiao\*, Wenjun Lin\*, **Hui Wang\***, Zheng Liu, Qiwei Ye
+
+NeurIPs2024 Workshop: Foundation Models for Science: Progress, Opportunities, and Challenges
 
 
 
