@@ -156,21 +156,29 @@ UltraSelex, a rapid single-round method for high-affinity aptamer discovery, is 
 
 <br><br>
 
+# Competition
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">蛋白质结构预测挑战赛2021-讯飞 iFLYTEK A.I.开发者大赛</div><img src='images/race1.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+
+
 # Honors and Awards
 
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
+- **Graduate**: Outstanding Graduate Student at Northeastern University; First-class Scholarship at Northeastern University.
+- **Undergraduate**: Provincial-level Outstanding Graduate in 2020 (Top 3%); National Inspirational Scholarship; University-level Outstanding Student Leader and "Triple-A" Student.
 
 <br><br>
 
 <br><br>
 
-# Educations & Internships
+# 📖  Educations & Internships
 
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2023.07 - Present，Algorithm Engineer at Beijing Academy of Artificial Intelligence (BAAI), specializing in AI4Biology.
 
-
+- 2022.07 - 2023.07,  Algorithm Intern at Beijing Academy of Artificial Intelligence (BAAI), supervised by [Wenhao Huang](https://scholar.google.com/citations?user=OdE3MsQAAAAJ&hl=zh-CN), specializing in AI4RNA.
+- *2011.02 - 2022.07*, Visiting researcher at Westlake University, School of Engineering, supervised by [Fajie Yuan](https://fajieyuan.github.io/), specializing in AI4Protein.
+- *2020.09 - 2023.06*, Master’s student at Northeastern University, supervised by [Guibing Guo](https://guoguibing.github.io/), specializing in Natural Language Processing.
 
