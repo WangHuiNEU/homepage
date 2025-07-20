@@ -30,7 +30,7 @@ My ultimate goal is to turn biology from a trial-and-error **science** into a pr
 
 \* denotes equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefs in Bioinformatics 2024</div><img src='images/fungentyper.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefs in Bioinformatics 2024</div><img src='images/fungentyper.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Highly accurate classification and discovery of microbial protein-coding gene functions using FunGeneTyper: an extensible deep learning framework**  
