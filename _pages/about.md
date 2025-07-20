@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m Hui Wang (王辉), currently an Algorithm Engineer at Beijing Academy of Artificial Intelligence (BAAI), specializing in AI4Biology. I hold a Master's degree from Northeastern University (School of Software) and received research training at Westlake University. My interests revolve around the fusion of biology and AI, covering protein engineering, nucleic acid aptamer design, and a deep curiosity in genomics, transcriptomics, and proteomics. My ultimate goal is to turn biology from a trial-and-error **science** into a predictable and designable **engineering** discipline. If any of this resonates with you, let’s connect and explore potential collaborations!
+Hi, I’m Hui Wang (王辉), currently an Algorithm Engineer at Beijing Academy of Artificial Intelligence (BAAI), specializing in AI4Biology. I hold a Master's degree from Northeastern University (School of Software) and received research training at Westlake University. My interests revolve around the fusion of biology and AI, covering protein engineering, nucleic acid aptamer design, and a deep curiosity in genomics, transcriptomics, and proteomics. 
+
+My ultimate goal is to turn biology from a trial-and-error **science** into a predictable and designable **engineering** discipline. If any of this resonates with you, let’s connect and explore potential collaborations!
 
 
 # 🔥 News
