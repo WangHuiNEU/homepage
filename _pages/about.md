@@ -39,8 +39,6 @@ Guoqing Zhang , **Hui Wang\*** , Zhiguo Zhang , Lu Zhang , Guibing Guo , Jian Ya
 
 <a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/Paper-Briefs%20in%20Bioinformatics-green" style="max-width: 100%;"></a>
 <a href="https://github.com/emblab-westlake/FunGeneTyper"><img src="https://img.shields.io/github/stars/emblab-westlake/FunGeneTyper?style=social&label=Code+Stars" style="max-width: 100%;"></a>
-
-_Briefs in Bioinformatics_
 </div>
 </div>
 
