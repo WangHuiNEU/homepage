@@ -22,15 +22,17 @@ Hi, I’m Hui Wang (王辉), currently an Algorithm Engineer at Beijing Academy 
 My ultimate goal is to turn biology from a trial-and-error **science** into a predictable and designable **engineering** discipline. If any of this resonates with you, let’s connect and explore potential collaborations!
 
 
+
 # 🔥 News
+
 - 2025.6: 🎉 UltraSelex was selected as the cover feature in the current issue of *Nature Chemical Biology*, and you can find additional perspectives in the [news & views](https://www.nature.com/articles/s41589-025-01917-0)
 - 2025.3: 🎉 Our collaborative paper **"Single-step discovery of high-affinity RNA ligands by UltraSelex"** has been accepted by *Nature Chemical Biology* (IF: 13.7). Congratulations to Yaqing!
+
+
 
 # 📝 Publications (First Author&Co-first Author)
 
 \* denotes equal contribution
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ultragen.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,6 +56,8 @@ Guoqing Zhang , **Hui Wang\*** , Zhiguo Zhang , Lu Zhang , Guibing Guo , Jian Ya
 </div>
 </div>
 
+
+
 # 📝Publications (Co-Author)
 
 
@@ -66,9 +70,15 @@ Guoqing Zhang , **Hui Wang\*** , Zhiguo Zhang , Lu Zhang , Guibing Guo , Jian Ya
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+
+
 # Educations & Internships
+
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+
+
 # 💻 Internships
+
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
