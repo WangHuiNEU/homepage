@@ -30,6 +30,18 @@ My ultimate goal is to turn biology from a trial-and-error **science** into a pr
 
 \* denotes equal contribution
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ultragen.png' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Hui Wang**, Zhaoming Chen, Wenjun Lin, Yuan Jiang, Jingye Zhang, Wenhao Huang, Yonggui Fu, Hongwang Xiao, David Kuster, Andres Jäschke, Qiwei Ye, Yaqing Zhang
+
+<a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/Paper-researchsquare-green" style="max-width: 100%;"></a><a href="https://codeocean.com/capsule/1240603/tree/v1"><img src="https://img.shields.io/badge/code-codeocean-blue" style="max-width: 100%;"></a>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefs in Bioinformatics 2024</div><img src='images/fungentyper.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,16 +51,6 @@ Guoqing Zhang , **Hui Wang\*** , Zhiguo Zhang , Lu Zhang , Guibing Guo , Jian Ya
 
 <a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/Paper-Briefs%20in%20Bioinformatics-green" style="max-width: 100%;"></a>
 <a href="https://github.com/emblab-westlake/FunGeneTyper"><img src="https://img.shields.io/github/stars/emblab-westlake/FunGeneTyper?style=social&label=Code+Stars" style="max-width: 100%;"></a>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ultragen.png' alt="sym" width="60%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Hui Wang**, Zhaoming Chen, Wenjun Lin, Yuan Jiang, Jingye Zhang, Wenhao Huang, Yonggui Fu, Hongwang Xiao, David Kuster, Andres Jäschke, Qiwei Ye, Yaqing Zhang
-
-<a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/Paper-researchsquare-green" style="max-width: 100%;"></a><a href="https://codeocean.com/capsule/1240603/tree/v1"><img src="https://img.shields.io/badge/code-codeocean-blue" style="max-width: 100%;"></a>
-
 </div>
 </div>
 
