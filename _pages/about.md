@@ -44,10 +44,17 @@ _Briefs in Bioinformatics_
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ultragen.jpg' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ultragen.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+**Hui Wang**, Zhaoming Chen, Wenjun Lin, Yuan Jiang, Jingye Zhang, Wenhao Huang, Yonggui Fu, Hongwang Xiao, David Kuster, Andres Jäschke, Qiwei Ye, Yaqing Zhang
 
+<a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/Paper-researchsquare-green" style="max-width: 100%;"></a>
+
+<a href="https://codeocean.com/capsule/1240603/tree/v1"><img src="https://img.shields.io/badge/code-codeocean-blue" style="max-width: 100%;"></a>
+
+</div>
+</div>
 
 # Publications (Co-Author)
 
