@@ -30,7 +30,7 @@ My ultimate goal is to turn biology from a trial-and-error **science** into a pr
 
 
 
-# Publications (First Author&Co-first Author)
+# 📝 Publications (First Author&Co-first Author)
 
 \* denotes equal contribution
 
@@ -78,7 +78,7 @@ NeurIPs 2024 Workshop: Foundation Models for Science: Progress, Opportunities, a
 </div>
 </div>
 
-# Publications (Co-Author)
+# 📝 Publications (Co-Author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Chemical Biology 2025</div><img src='images/ultraselex.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -121,6 +121,8 @@ NeurIPS 2022
 
 </div>
 </div>
+
+
 
 # Highlights
 
