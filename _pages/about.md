@@ -34,7 +34,7 @@ My ultimate goal is to turn biology from a trial-and-error **science** into a pr
 
 \* denotes equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ultragen.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ultragen.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Decoding the RNA interactome by UltraGen**
@@ -48,7 +48,7 @@ My ultimate goal is to turn biology from a trial-and-error **science** into a pr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefs in Bioinformatics 2024</div><img src='images/fungentyper.jpg' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefs in Bioinformatics 2024</div><img src='images/fungentyper.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Highly accurate classification and discovery of microbial protein-coding gene functions using FunGeneTyper: an extensible deep learning framework**  
@@ -63,7 +63,7 @@ Briefs in Bioinformatics 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src='images/opi.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src='images/opi.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **OPI: An Open Instruction Dataset for Adapting Large Language Models to Protein-Related Tasks**
