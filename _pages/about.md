@@ -30,7 +30,7 @@ My ultimate goal is to turn biology from a trial-and-error **science** into a pr
 
 <br><br>
 
-# 📝 Publications (First Author&Co-first Author)
+# 📝 Publications (First Author \& Co-first Author)
 
 \* denotes equal contribution
 
