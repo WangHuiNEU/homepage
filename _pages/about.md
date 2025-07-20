@@ -23,7 +23,11 @@ My ultimate goal is to turn biology from a trial-and-error **science** into a pr
 
 
 # 🔥 News
-- 
+- 2025.6: 🎉 UltraSelex was selected as the cover feature in the current issue of *Nature Chemical Biology*, and you can find additional perspectives in the 
+
+  [News]: https://www.nature.com/articles/s41589-025-01917-0	"Sorting high-affinity aptamers in a single selection round"
+
+  
 - 2025.3: 🎉 Our collaborative paper **"Single-step discovery of high-affinity RNA ligands by UltraSelex"** has been accepted by *Nature Chemical Biology* (IF: 13.7). Congratulations to Yaqing!
 
 # 📝 Publications 
