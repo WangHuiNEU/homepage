@@ -30,7 +30,7 @@ My ultimate goal is to turn biology from a trial-and-error **science** into a pr
 
 
 
-# 📝 Publications (First Author&Co-first Author)
+# Publications (First Author&Co-first Author)
 
 \* denotes equal contribution
 
@@ -78,7 +78,7 @@ NeurIPs 2024 Workshop: Foundation Models for Science: Progress, Opportunities, a
 </div>
 </div>
 
-# 📝Publications (Co-Author)
+# Publications (Co-Author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Chemical Biology 2025</div><img src='images/ultraselex.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -87,9 +87,9 @@ NeurIPs 2024 Workshop: Foundation Models for Science: Progress, Opportunities, a
 
 Yaqing Zhang, Yuan Jiang, David Kuster, Qiwei Ye, Wenhao Huang, Simon Fürbacher, Jingye Zhang, Pia Doll, Wenjun Lin, Siwei Dong, **Hui Wang**, Zhipeng Tang, David Ibberson, Klemens Wild, Irmgard Sinning, Anthony A. Hyman & Andres Jäschke
 
-Nature Chemical Biology 2025
-
 <a href="https://https://www.nature.com/articles/s41589-025-01868-6"><img src="https://img.shields.io/badge/paper-Nature Chemical Biology-green" style="max-width: 100%;"></a>
+
+Nature Chemical Biology 2025
 
 </div>
 </div>
@@ -101,11 +101,26 @@ Nature Chemical Biology 2025
 
 Hui Qian, Yuxuan Wang, Xibin Zhou, Tao Gu, **Hui Wang**, Hao Lyu, Zhikai Li, Xiuxu Li, Huan Zhou, Chengchen Guo, Fajie Yuan & Yajie Wang
 
-Nature Communications 2025
-
 <a href="https://www.nature.com/articles/s41467-025-58521-y"><img src="https://img.shields.io/badge/paper-Nature Communications-green" style="max-width: 100%;"></a>
 
+Nature Communications 2025
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/explore.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Exploring evolution-aware &-free protein language models as protein function predictors**
+
+Mingyang Hu, Fajie Yuan, Kevin Yang, Fusong Ju, Jin Su, **Hui Wang**, Fei Yang, Qiuyang Ding
+
+<a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/fe066022bab2a6c6a3c57032a1623c70-Paper-Conference.pdf"><img src="https://img.shields.io/badge/paper-NeurIPS-green" style="max-width: 100%;"></a>
+
+NeurIPS 2022
+
+</div>
+</div>
 
 # Highlights
 
@@ -126,6 +141,3 @@ Nature Communications 2025
 
 
 
-# 💻 Internships
-
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
