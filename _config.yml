@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hui Wang (王辉)"
-description              : "Algorithm Engineer at Beijing Academy of Artificial Intelligence (BAAI), focusing on **AI4Biology**. His mission is to help transform molecular biology from a trial-and-error science into a predictable and designable engineering discipline.
+description              : "Algorithm Engineer at Beijing Academy of Artificial Intelligence (BAAI), focusing on AI4Biology. His mission is to help transform molecular biology from a trial-and-error science into a predictable and designable engineering discipline.
 "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Hui Wang (王辉)"
+  avatar           : "images/citations.jpg"
+  bio              : "BAAI"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=lu585PoAAAAJ&hl=zh-CN"
+  email            : "wanghui@baai.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
