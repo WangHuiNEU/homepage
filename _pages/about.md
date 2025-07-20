@@ -140,7 +140,7 @@ NeurIPS 2022
 
 # ⭐ Highlights
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Chemical Biology 2025</div><img src='images/cover.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Chemical Biology 2025</div><img src='images/cover.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 UltraSelex, a rapid single-round method for high-affinity aptamer discovery, is featured on the cover of Nature Chemical Biology. Unlike conventional SELEX requiring 10–15 cycles, UltraSelex uses successive elution steps to capture aptamers by affinity in just one round.
