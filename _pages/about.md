@@ -41,7 +41,7 @@ Decoding the RNA interactome by UltraGen
 
 **Hui Wang**, Zhaoming Chen, Wenjun Lin, Yuan Jiang, Jingye Zhang, Wenhao Huang, Yonggui Fu, Hongwang Xiao, David Kuster, Andres Jäschke, Qiwei Ye, Yaqing Zhang
 
-<a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"> <img src="https://img.shields.io/badge/Paper-researchsquare-green" style="max-width: 100%;"></a>  <a href="https://codeocean.com/capsule/1240603/tree/v1"><img src="https://img.shields.io/badge/code-codeocean-blue" style="max-width: 100%;"></a>
+<a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/Paper-researchsquare-green" style="max-width: 100%;"></a>  <a href="https://codeocean.com/capsule/1240603/tree/v1"><img src="https://img.shields.io/badge/code-codeocean-blue" style="max-width: 100%;"></a>
 
 *UnderReivew*
 
