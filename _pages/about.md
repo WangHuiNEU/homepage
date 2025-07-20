@@ -70,6 +70,9 @@ Briefs in Bioinformatics 2024
 
 Hongwang Xiao\*, Wenjun Lin\*, **Hui Wang\***, Zheng Liu, Qiwei Ye
 
+<a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/paper-Workshop-blue" style="max-width: 100%;"></a>
+<a href="https://github.com/emblab-westlake/FunGeneTyper"><img src="https://img.shields.io/github/stars/baaihealth/opi?style=social&label=Code+Stars" style="max-width: 100%;"></a>
+
 NeurIPs 2024 Workshop: Foundation Models for Science: Progress, Opportunities, and Challenges
 
 </div>
