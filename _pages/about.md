@@ -151,7 +151,12 @@ UltraSelex, a rapid single-round method for high-affinity aptamer discovery, is 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">蛋白质结构预测挑战赛2021-讯飞 iFLYTEK A.I.开发者大赛</div><img src='images/race1.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+</div>
+</div>
 
+
+
+<br><br>
 
 
 
