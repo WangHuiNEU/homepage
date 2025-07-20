@@ -26,20 +26,33 @@ My ultimate goal is to turn biology from a trial-and-error **science** into a pr
 - 2025.6: 🎉 UltraSelex was selected as the cover feature in the current issue of *Nature Chemical Biology*, and you can find additional perspectives in the [news & views](https://www.nature.com/articles/s41589-025-01917-0)
 - 2025.3: 🎉 Our collaborative paper **"Single-step discovery of high-affinity RNA ligands by UltraSelex"** has been accepted by *Nature Chemical Biology* (IF: 13.7). Congratulations to Yaqing!
 
-# 📝 Publications 
+# Publications (First Author&Co-first Author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+\* denotes equal contribution
+
+```html
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefs in Bioinformatics 2024</div><img src='images/fungentyper.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+```
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Highly accurate classification and discovery of microbial protein-coding gene functions using FunGeneTyper: an extensible deep learning framework**  
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+Guoqing Zhang , **Hui Wang\*** , Zhiguo Zhang , Lu Zhang , Guibing Guo , Jian Yang , Fajie Yuan , Feng Ju
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+```
+<a href="https://www.biorxiv.org/content/10.1101/2024.05.30.596740v1"><img src="https://img.shields.io/badge/Paper-Briefs%20in%20Bioinformatics-green" style="max-width: 100%;"></a>
+<a href="https://github.com/emblab-westlake/FunGeneTyper"><img src="https://img.shields.io/github/stars/westlake-repl/ProTrek?style=social&label=Code+Stars" style="max-width: 100%;"></a>
+```
+
+
+
+# Publications (Co-Author)
+
+
+
+
+
+
 
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
