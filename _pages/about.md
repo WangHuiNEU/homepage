@@ -71,7 +71,8 @@ Hongwang Xiao\*, Wenjun Lin\*, **Hui Wang\***, Zheng Liu, Qiwei Ye
 
 NeurIPs2024 Workshop: Foundation Models for Science: Progress, Opportunities, and Challenges
 
-
+</div>
+</div>
 
 # 📝Publications (Co-Author)
 
