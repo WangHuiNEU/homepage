@@ -21,14 +21,18 @@ Hi, I’m Hui Wang (王辉), currently an Algorithm Engineer at Beijing Academy 
 
 My ultimate goal is to turn biology from a trial-and-error **science** into a predictable and designable **engineering** discipline. If any of this resonates with you, let’s connect and explore potential collaborations!
 
+<br><br>
 
+<br><br>
 
 # 🔥 News
 
 - 2025.6: 🎉 UltraSelex was selected as the cover feature in the current issue of *Nature Chemical Biology*, and you can find additional perspectives in the [news & views](https://www.nature.com/articles/s41589-025-01917-0)
 - 2025.3: 🎉 Our collaborative paper **"Single-step discovery of high-affinity RNA ligands by UltraSelex"** has been accepted by *Nature Chemical Biology* (IF: 13.7). Congratulations to Yaqing!
 
+<br><br>
 
+<br><br>
 
 # 📝 Publications (First Author&Co-first Author)
 
@@ -78,6 +82,12 @@ NeurIPs 2024 Workshop: Foundation Models for Science: Progress, Opportunities, a
 </div>
 </div>
 
+
+
+<br><br>
+
+<br><br>
+
 # 📝 Publications (Co-Author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Chemical Biology 2025</div><img src='images/ultraselex.png' alt="sym" width="80%"></div></div>
@@ -124,7 +134,11 @@ NeurIPS 2022
 
 
 
-# Highlights
+<br><br>
+
+<br><br>
+
+# ⭐ Highlights
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Chemical Biology 2025</div><img src='images/cover.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -136,11 +150,22 @@ UltraSelex, a rapid single-round method for high-affinity aptamer discovery, is 
 </div>
 </div>
 
+
+
+<br><br>
+
+<br><br>
+
 # Honors and Awards
+
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
+
+<br><br>
+
+<br><br>
 
 # Educations & Internships
 
