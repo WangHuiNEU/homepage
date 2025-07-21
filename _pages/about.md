@@ -168,9 +168,9 @@ UltraSelex, a rapid single-round method for high-affinity aptamer discovery, is 
 
 # Educations & Internships
 
-- 2023.07 - Present，Algorithm Engineer at Beijing Academy of Artificial Intelligence (BAAI), specializing in AI4Biology.
+- 2023.07 - Present, Algorithm Engineer at Beijing Academy of Artificial Intelligence (BAAI), specializing in AI4Biology.
 
-- 2022.07 - 2023.07,  Algorithm Intern at Beijing Academy of Artificial Intelligence (BAAI), supervised by [Wenhao Huang](https://scholar.google.com/citations?user=OdE3MsQAAAAJ&hl=zh-CN), specializing in AI4RNA.
+- 2022.07 - 2023.07, Algorithm Intern at Beijing Academy of Artificial Intelligence (BAAI), supervised by [Wenhao Huang](https://scholar.google.com/citations?user=OdE3MsQAAAAJ&hl=zh-CN), specializing in AI4RNA.
 - *2021.02 - 2022.07*, Visiting researcher at Westlake University, School of Engineering, supervised by [Fajie Yuan](https://fajieyuan.github.io/), specializing in AI4Protein.
 - *2020.09 - 2023.06*, Master’s student at Northeastern University, supervised by [Guibing Guo](https://guoguibing.github.io/), specializing in Natural Language Processing.
 
