@@ -17,16 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I’m Hui Wang (王辉), currently an Algorithm Engineer at Beijing Academy of Artificial Intelligence (BAAI), specializing in AI4Biology. I hold a Master's degree from Northeastern University (School of Software) and received research training at Westlake University. My interests revolve around the fusion of biology and AI, covering protein engineering, nucleic acid aptamer design, and a deep curiosity in genomics, transcriptomics, and proteomics. 
+Hi, I’m Hui Wang (王辉), currently a Researcher at the Beijing Academy of Artificial Intelligence (BAAI), specializing in AI for Biology. I hold a Master’s degree from the School of Software at Northeastern University and previously interned at Westlake University and BAAI. My research focuses on developing next-generation scientific agents at the intersection of life sciences and large language models.
 
-My ultimate goal is to turn biology from a trial-and-error **science** into a predictable and designable **engineering** discipline. If any of this resonates with you, let’s connect and explore potential collaborations!
+My ultimate goal is to transform biology from a trial-and-error **science** into a predictable and designable **engineering** discipline. If this vision resonates with you, let’s connect and explore potential collaborations!
 
 <br><br>
 
 # 🔥 News
 
-- 2025.6: 🎉 UltraSelex was selected as the cover feature in the current issue of *Nature Chemical Biology*, and you can find additional perspectives in the [news & views](https://www.nature.com/articles/s41589-025-01917-0)
-- 2025.3: 🎉 Our collaborative paper **"Single-step discovery of high-affinity RNA ligands by UltraSelex"** has been accepted by *Nature Chemical Biology* (IF: 13.7). Congratulations to Yaqing!
+- 2026.7: 🎉 Our key collaborative work **["AREX: Towards a Recursively Self-Improving Agent for Deep Research"](https://arxiv.org/abs/2607.21461)** is now available on *arXiv*.
+- 2026.7: Our collaborative paper **["STELLA: A multimodal LLM for protein functional annotation via unified sequence-structure encoding"](https://aclanthology.org/2026.findings-acl.1254/)** was published in *Findings of ACL 2026*.
+- 2025.10: 🎉 Our first-author paper **["RNA-Scope: Benchmarking RNA Language Models for RNA Sequence Understanding"](https://openreview.net/forum?id=zYAuJxcl2E)** was accepted to the *NeurIPS 2025 AI for Science Workshop*.
+- 2025.6: UltraSelex was selected as the cover feature in the current issue of *Nature Chemical Biology*, and you can find additional perspectives in the [news & views](https://www.nature.com/articles/s41589-025-01917-0).
+- 2025.4: Our collaborative paper **["ESM-Ezy: a deep learning strategy for the mining of novel multicopper oxidases with superior properties"](https://www.nature.com/articles/s41467-025-58521-y)** was published in *Nature Communications*.
+- 2025.3: Our collaborative paper **"Single-step discovery of high-affinity RNA ligands by UltraSelex"** has been accepted by *Nature Chemical Biology* (IF: 13.7). Congratulations to Yaqing!
+- 2024.7: 🎉 Our co-first-author paper **["Highly accurate classification and discovery of microbial protein-coding gene functions using FunGeneTyper: an extensible deep learning framework"](https://academic.oup.com/bib/article-abstract/25/4/bbae319/7713721)** was published in *Briefings in Bioinformatics*.
 
 <br><br>
 
@@ -145,18 +150,6 @@ UltraSelex, a rapid single-round method for high-affinity aptamer discovery, is 
 
 <br><br>
 
-# Competition
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">蛋白质结构预测挑战赛2021-讯飞 iFLYTEK A.I.开发者大赛</div><img src='images/race1.png' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-</div>
-</div>
-
-
-
-<br><br>
-
 
 
 # Honors and Awards
@@ -168,9 +161,8 @@ UltraSelex, a rapid single-round method for high-affinity aptamer discovery, is 
 
 # Educations & Internships
 
-- 2023.07 - Present, Algorithm Engineer at Beijing Academy of Artificial Intelligence (BAAI), specializing in AI4Biology.
+- 2023.07 - Present, Researcher at Beijing Academy of Artificial Intelligence (BAAI), specializing in AI for Biology.
 
 - 2022.07 - 2023.07, Algorithm Intern at Beijing Academy of Artificial Intelligence (BAAI), supervised by [Wenhao Huang](https://scholar.google.com/citations?user=OdE3MsQAAAAJ&hl=zh-CN), specializing in AI4RNA.
 - *2021.02 - 2022.07*, Visiting researcher at Westlake University, School of Engineering, supervised by [Fajie Yuan](https://fajieyuan.github.io/), specializing in AI4Protein.
 - *2020.09 - 2023.06*, Master’s student at Northeastern University, supervised by [Guibing Guo](https://guoguibing.github.io/), specializing in Natural Language Processing.
-
