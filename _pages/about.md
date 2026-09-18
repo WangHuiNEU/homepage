@@ -30,7 +30,7 @@ My ultimate goal is to transform biology from a trial-and-error **science** into
 - 2025.10: My **first-author** paper **["RNA-Scope: Benchmarking RNA Language Models for RNA Sequence Understanding"](https://openreview.net/forum?id=zYAuJxcl2E)** was accepted to the *NeurIPS 2025 AI for Science Workshop*.
 - 2025.6: UltraSelex was selected as the cover feature in the current issue of *Nature Chemical Biology*, and you can find additional perspectives in the [news & views](https://www.nature.com/articles/s41589-025-01917-0).
 - 2025.4: Our collaborative paper **["ESM-Ezy: a deep learning strategy for the mining of novel multicopper oxidases with superior properties"](https://www.nature.com/articles/s41467-025-58521-y)** was published in *Nature Communications*.
-- 2025.3: Our collaborative paper **"Single-step discovery of high-affinity RNA ligands by UltraSelex"** has been accepted by *Nature Chemical Biology* (IF: 13.7).
+- 2025.3: Our collaborative paper ["Single-step discovery of high-affinity RNA ligands by UltraSelex"](https://www.nature.com/articles/s41589-025-01868-6) has been accepted by *Nature Chemical Biology* (IF: 13.7).
 - 2024.7: My **co-first-author** paper **["Highly accurate classification and discovery of microbial protein-coding gene functions using FunGeneTyper: an extensible deep learning framework"](https://academic.oup.com/bib/article-abstract/25/4/bbae319/7713721)** was published in *Briefings in Bioinformatics*.
 
 <br><br>
